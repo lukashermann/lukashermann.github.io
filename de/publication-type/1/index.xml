@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Lukas Hermann</title>
+    <link>https://example.com/de/publication-type/1/</link>
+      <atom:link href="https://example.com/de/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-de</language><lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu57d5dd2b69333cf1eb15394061df9272_2082296_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/de/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>What Matters in Language Conditioned Robotic Imitation Learning over Unstructured Data</title>
+      <link>https://example.com/de/publication/hulc/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/de/publication/hulc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks</title>
+      <link>https://example.com/de/publication/calvin/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/de/publication/calvin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affordance Learning from Play for Sample-Efficient Policy Learning</title>
+      <link>https://example.com/de/publication/vapo/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/de/publication/vapo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlowControl: Optical Flow Based Visual Servoing</title>
+      <link>https://example.com/de/publication/flowcontrol/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/de/publication/flowcontrol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindsight for Foresight: Unsupervised Structured Dynamics Models from Physical Interaction</title>
+      <link>https://example.com/de/publication/hind4sight/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/de/publication/hind4sight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Curriculum Generation from Demonstrations for Sim-To-Real Visuomotor Control</title>
+      <link>https://example.com/de/publication/acgd/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/de/publication/acgd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
