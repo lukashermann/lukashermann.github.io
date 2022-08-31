@@ -34,14 +34,14 @@
       href="https://lukashermann.github.io/de/event/"
     /></url>
   <url>
-    <loc>https://lukashermann.github.io/de/publication-type/1/</loc><lastmod>2022-10-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://lukashermann.github.io/de/publication-type/2/</loc><lastmod>2022-10-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://lukashermann.github.io/publication-type/1/"
+      href="https://lukashermann.github.io/publication-type/2/"
     /><xhtml:link
       rel="alternate"
       hreflang="de"
-      href="https://lukashermann.github.io/de/publication-type/1/"
+      href="https://lukashermann.github.io/de/publication-type/2/"
     /></url>
   <url>
     <loc>https://lukashermann.github.io/de/publication_types/</loc><lastmod>2022-10-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -82,6 +82,16 @@
       rel="alternate"
       hreflang="de"
       href="https://lukashermann.github.io/de/publication/calvin/"
+    /></url>
+  <url>
+    <loc>https://lukashermann.github.io/de/publication-type/1/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://lukashermann.github.io/publication-type/1/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="de"
+      href="https://lukashermann.github.io/de/publication-type/1/"
     /></url>
   <url>
     <loc>https://lukashermann.github.io/de/publication/vapo/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
