@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Lukas Hermann</title>
+    <link>https://lukashermann.github.io/de/publication-type/2/</link>
+      <atom:link href="https://lukashermann.github.io/de/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>de-de</language><lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lukashermann.github.io/media/icon_hu57d5dd2b69333cf1eb15394061df9272_2082296_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://lukashermann.github.io/de/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>What Matters in Language Conditioned Robotic Imitation Learning over Unstructured Data</title>
+      <link>https://lukashermann.github.io/de/publication/hulc/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lukashermann.github.io/de/publication/hulc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks</title>
+      <link>https://lukashermann.github.io/de/publication/calvin/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://lukashermann.github.io/de/publication/calvin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
